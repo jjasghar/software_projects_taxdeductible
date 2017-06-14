@@ -24,6 +24,7 @@ time.)
 - [PostgresSQL][postgres] - [Donate][postgresdonate]
 - [Software In the Public Interest][sitpi] - [Donate][sitpidonate]
 - [x.org][xorg] - [Donate][xorgdonate]
+- [Let's Encrypt][le] - [Donate][ledonate]
 
 
 ## License
@@ -62,3 +63,5 @@ limitations under the License.
 [sitpidonate]: http://www.spi-inc.org/donations/
 [xorg]: https://www.x.org/wiki/XorgFoundation/
 [xorgdonate]: http://www.spi-inc.org/projects/x.org/
+[le]: https://letsencrypt.org/
+[ledonate]: https://letsencrypt.org/donate/
