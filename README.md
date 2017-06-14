@@ -21,10 +21,10 @@ time.)
 - [debian][debian] - [Donate][debiandonate]
 - [fluxbox][fluxbox] - [Donate][fluxboxdonate]
 - [Jenkins][jenkins] - [Donate][jenkinsdonate]
+- [Let's Encrypt][le] - [Donate][ledonate]
 - [PostgresSQL][postgres] - [Donate][postgresdonate]
 - [Software In the Public Interest][sitpi] - [Donate][sitpidonate]
 - [x.org][xorg] - [Donate][xorgdonate]
-- [Let's Encrypt][le] - [Donate][ledonate]
 
 
 ## License
@@ -57,11 +57,11 @@ limitations under the License.
 [fluxboxdonate]: http://www.spi-inc.org/projects/fluxbox/
 [jenkins]: https://jenkins.io/
 [jenkinsdonate]: https://jenkins.io/donate
+[le]: https://letsencrypt.org/
+[ledonate]: https://letsencrypt.org/donate/
 [postgres]: https://www.postgresql.org/
 [postgresdonate]: http://www.spi-inc.org/projects/postgresql/
 [sitpi]: http://www.spi-inc.org/
 [sitpidonate]: http://www.spi-inc.org/donations/
 [xorg]: https://www.x.org/wiki/XorgFoundation/
 [xorgdonate]: http://www.spi-inc.org/projects/x.org/
-[le]: https://letsencrypt.org/
-[ledonate]: https://letsencrypt.org/donate/
